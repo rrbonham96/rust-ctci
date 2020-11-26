@@ -5,3 +5,4 @@ pub mod palindrome_permutation;
 pub mod one_away;
 pub mod string_compression;
 pub mod rotation;
+pub mod zero_matrix;
